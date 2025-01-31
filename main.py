@@ -82,5 +82,4 @@ def DoSurvey(numberPassed, commentPassed):
     ClickNext()
     sleep(2)
 
-
-
+DoSurvey(137, "Dakota is awesome!")
